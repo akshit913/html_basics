@@ -1,0 +1,7 @@
+Doctype helps the browser to know what kind of language this is. SO browser dosesnot have to judge by the source code. Good practice to add it.
+Information inside the head is for triggering some kind of logic in the browser.
+Body is the view port of the browser. Place where contents of the website are rendered. 
+Character set - usually used utf-8 - text, symbols, emojis , ascii, unicode - for many languages.
+mdn - good source for learning about html.
+HTML is used to demarcate the page into different sections. 
+blocked elements use block spaces. dont need a seperate horizontal strip. 
