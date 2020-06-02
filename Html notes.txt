@@ -1,3 +1,4 @@
+Day 1:
 Doctype helps the browser to know what kind of language this is. SO browser dosesnot have to judge by the source code. Good practice to add it.
 Information inside the head is for triggering some kind of logic in the browser.
 Body is the view port of the browser. Place where contents of the website are rendered. 
@@ -5,3 +6,23 @@ Character set - usually used utf-8 - text, symbols, emojis , ascii, unicode - fo
 mdn - good source for learning about html.
 HTML is used to demarcate the page into different sections. 
 blocked elements use block spaces. dont need a seperate horizontal strip. 
+X-x-x-x-x-x-x-x-x--x-x-x-x-x-x-x-x-x-x-x-x-X
+Day 2:
+anchors: for referencing sections of the page or external links.
+Frames: 
+Loading content from other pages. Youtube videos, etc.
+iframes are inline can be aligned one after another.
+iframes can be given names which can be used as a target for opening links in the frame instead of same or another tab.
+For security reasons some websites dont open in iframes. Such website can be opened by using the target as parent.
+Top can be used for a deeply nested iframe.
+Opening the same file containing iframes in the iframe will recursively open it once.
+browsers have prevention against recursion of iframes.
+Iframes reduce the performance of the webpage. Equal to opening a new tab. Costly operation.
+Media Elements:
+alt can be used in the case the image is not displaying or for visually impaired people to read the text for the image.
+setting height and width disturbs the aspect ratio. try to set one instead of 2. Use css.
+for video controls add the control tag.
+preload, video (even the metadata) is not loaded till the video is not played by the user. 
+audio autoplay without controls can be stoped only by muting the speakers, which is why the browsers included the block audio
+Form Elements:
+Radio buttons should have same names to work.
