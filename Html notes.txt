@@ -39,3 +39,23 @@ Html is read top to bottom : sibblings work for younger sibblings only.
 Pseudo selectors : 
 active state :- when mouse is hovered and clicked.
 focus : cursor is in that element.
+Day 4:
+Id is for one is to one mapping 
+class is for many to many mapping.
+if a body is given some style. Inner tags won't get that tag.
+any style added to particular class is over rides the * styles.
+id > class > element > * (Precedence)
+If we repeat the same property again then the first property gets overwritten.
+inline styling precedes over any other applied style.
+span is inline div is block.
+Div simply converts to block for grouping. Similarly span is inline for grouping. 
+Margin area gets the color from parent element
+Padding gets its own color
+outer element is like a road. Margin is a part which belong to the outer road where the cars cannot go.
+Border is like a wall. Padding is like your lawn accross the wall. Then your house.
+if no space is left after giving border. the content is overlayed. 
+Since html elements are read from top to bottom the outer elements always get their space.
+m is the widest char in alphabet. the size of m character in broswer font size is 1em.
+vh - change accroding to the browser height.(1/100 of window height.
+Monspace takes same width for every character.
+use t-family for a font fallback channel. 
