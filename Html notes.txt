@@ -26,3 +26,16 @@ preload, video (even the metadata) is not loaded till the video is not played by
 audio autoplay without controls can be stoped only by muting the speakers, which is why the browsers included the block audio
 Form Elements:
 Radio buttons should have same names to work.
+Day 3:
+Selectors:
+type (div,p,etc.) class, id
+[] for inside properties of selectors.
+Combinators:
+4 kinds usually used:- 
++just below the tag ex- h2 + p : paragraph immwdiately after the h2.
+~ general sibbling combinator : every selector after that. 
+Html is read top to bottom : sibblings work for younger sibblings only.
+> - selec just inside the sibbling get the css. only id directly inside sibbling.
+Pseudo selectors : 
+active state :- when mouse is hovered and clicked.
+focus : cursor is in that element.
