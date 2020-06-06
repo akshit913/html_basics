@@ -26,6 +26,8 @@ preload, video (even the metadata) is not loaded till the video is not played by
 audio autoplay without controls can be stoped only by muting the speakers, which is why the browsers included the block audio
 Form Elements:
 Radio buttons should have same names to work.
+
+
 Day 3:
 Selectors:
 type (div,p,etc.) class, id
@@ -39,6 +41,8 @@ Html is read top to bottom : sibblings work for younger sibblings only.
 Pseudo selectors : 
 active state :- when mouse is hovered and clicked.
 focus : cursor is in that element.
+
+
 Day 4:
 Id is for one is to one mapping 
 class is for many to many mapping.
@@ -58,4 +62,11 @@ Since html elements are read from top to bottom the outer elements always get th
 m is the widest char in alphabet. the size of m character in broswer font size is 1em.
 vh - change accroding to the browser height.(1/100 of window height.
 Monspace takes same width for every character.
-use t-family for a font fallback channel. 
+use t-family for a font fallback channel.
+
+Day 5:
+SkewX: type of transform: rotates the y axis by the specified amount. Rotation takes place in anti clockwise direction.
+Rotate: rotation by degrees
+Scale: Basically magnify
+just changing height and width size of text inside remains the same and the element spacing stays.
+Translate: x and y, move to right by x and move downwards by y.
