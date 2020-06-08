@@ -9,3 +9,4 @@ default is ease in out.
 ease out - starts fast ends slow
 ease in out - starts slow gets fast in the middle and gets slow again.
 cubic beizer to specify the time fucntion.
+css-tricks.com : flex bocks tricks and guides.
