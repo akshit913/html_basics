@@ -1,0 +1,5 @@
+Box shadow: for giving shadows. giving it 3 paramters gives it a gaussian blur.
+Transition: css takes specified time to apply.
+user interaction animations like click should happen with a faster transition than other hover like transitions.
+you can specify different times for different styles.
+
