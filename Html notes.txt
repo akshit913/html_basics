@@ -70,3 +70,5 @@ Rotate: rotation by degrees
 Scale: Basically magnify
 just changing height and width size of text inside remains the same and the element spacing stays.
 Translate: x and y, move to right by x and move downwards by y.
+
+

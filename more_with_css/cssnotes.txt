@@ -10,3 +10,19 @@ ease out - starts fast ends slow
 ease in out - starts slow gets fast in the middle and gets slow again.
 cubic beizer to specify the time fucntion.
 css-tricks.com : flex bocks tricks and guides.
+absolute length : points and pixels. Points are more widely used.
+Relative units : em is relative to font size of parent element.
+rm -  relative to browsers font size. It is in pt.
+vh and vw : 1% of the view ports height and width.
+vmin : landscape : 1% of width reverse for vmax.
+flex:
+directions to do the wrapping can be controlled by flex wrap, flex direction and justify content.
+align items baseline will align items within the row perpendicularly.
+align content aligns the rows
+space around - space around left and right of each item will be equal. space even all spaces same.
+flex box removes the spacing problem.
+media query:
+max width properties should be written in increasing order.
+Mobile first design : initial design for mobile. 
+default is written for widest possible screen.
+Use min width for mobile websites. order by increasing order.
