@@ -26,3 +26,6 @@ max width properties should be written in increasing order.
 Mobile first design : initial design for mobile. 
 default is written for widest possible screen.
 Use min width for mobile websites. order by increasing order.
+
+Bootstrap : 
+grid distribution according to the screen sizes, mobile based approach.
