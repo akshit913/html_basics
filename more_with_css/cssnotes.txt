@@ -37,3 +37,4 @@ absolute :  poisitioning will happen according to the parent. element is removed
 fixed : fix items with respect to the window.
 sticky :  by default position is static and once the constraint is violated it becomes fixed.
 nth child : every item which is the nth child of parent gets the property.
+z-index : items can hide under the container. higher index are towards us. 
