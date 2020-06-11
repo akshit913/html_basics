@@ -29,3 +29,11 @@ Use min width for mobile websites. order by increasing order.
 
 Bootstrap : 
 grid distribution according to the screen sizes, mobile based approach.
+
+Positioning : 
+static is the default.
+relative :  item will move to the specified direction by specified amount from its actual position. the actual position is reserved.
+absolute :  poisitioning will happen according to the parent. element is removed from the document flow and positioned according to the ancestor.
+fixed : fix items with respect to the window.
+sticky :  by default position is static and once the constraint is violated it becomes fixed.
+nth child : every item which is the nth child of parent gets the property.
